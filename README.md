@@ -12,7 +12,6 @@
   <img align="center" alt="Vogel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Vogel-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Vogel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Vogel Pic" height="150" style="border-radius:50px;" src="https://media-exp1.licdn.com/dms/image/C4D03AQFKfbfLxb7urw/profile-displayphoto-shrink_800_800/0/1632714969467?e=1645056000&v=beta&t=Ug2XPKvNyc-Jn2wS48_9ZG6McjinY8iyT2S9Ul35oKA">
 </div>
   
   ##
