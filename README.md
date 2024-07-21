@@ -1,4 +1,4 @@
-## Hi, I'm Gabriel Vogel, I work with Technical Support and I'm comfortable building things in my spare time, using Python, including frontend, backend (Node.js and PHP). 
+## Hi, I'm Gabriel Vogel, I work with UX/UI, JavaScript, CSS, and PHP. 
 <div align="center">
   <a href="https://github.com/Vogel1212">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vogel1212&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
